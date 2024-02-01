@@ -1,4 +1,4 @@
-# Bioinformatics Researcher | PhD Student | Epigenetics in Stress Response
+# PhD Student | Bioinformatics | Epigenetics 
 
 Passionate about unraveling the intricate mechanisms of epigenetic regulation using integrative data approaches. 
 
