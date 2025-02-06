@@ -6,7 +6,7 @@ Passionate about unraveling the intricate mechanisms of epigenetic regulation us
 My background is in biochemistry and molecular biology with an emphasis on epigenetic regulation. I am proficient in bioinformatic analyses to enhance genomic insights. I am driven to elucidate complex biological mechanisms using computational tools. 
 
 ### Education
-- PhD Student at Oklahoma State University
+- M.S. Biochemistry and Molecular Biology at Oklahoma State University
 
 ## Skills
 - Bioinformatics | Biochemistry and Molecular Biology
@@ -16,7 +16,7 @@ My background is in biochemistry and molecular biology with an emphasis on epige
 - Programming languages: bash, Python, R
 
 ## Experience
-- Working on elucidating plant transcriptome regulation under stressful conditions with an integrative and differential multi-omic approach.
+- Worked on elucidating plant transcriptome regulation under stressful conditions with an integrative and differential multi-omic approach.
 - Transcriptome profiling, histone modification analysis, and nucleosome occupancy interrogation.
 - Utilize HPC cluster environments for large data processing.
 
