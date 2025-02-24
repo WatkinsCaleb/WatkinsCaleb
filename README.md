@@ -1,4 +1,4 @@
-# PhD Student | Bioinformatics | Epigenetics 
+# Data Analyst | Bioinformatics | Epigenetics 
 
 Passionate about unraveling the intricate mechanisms of epigenetic regulation using integrative data approaches. 
 
