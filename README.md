@@ -6,7 +6,7 @@ Passionate about unraveling the intricate mechanisms of epigenetic regulation us
 My background is in biochemistry and molecular biology with an emphasis on epigenetic regulation. I am proficient in bioinformatic analyses to enhance genomic insights. I am driven to elucidate complex biological mechanisms using computational tools. 
 
 ### Education
-- M.S. Biochemistry and Molecular Biology at Oklahoma State University
+- M.S. Biochemistry and Molecular Biology
 
 ## Skills
 - Bioinformatics | Biochemistry and Molecular Biology
@@ -27,9 +27,6 @@ My background is in biochemistry and molecular biology with an emphasis on epige
 
 ## Personal Links
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/caleb-watkins-38b813149/)
-
-## How to reach me
-- Email: [calewat@okstate.edu](mailto:calewat@okstate.edu)
 
 <!---
 WatkinsCaleb/WatkinsCaleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
